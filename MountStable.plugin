@@ -3,7 +3,7 @@
 	<Information>
 		<Name>MountStable</Name>
 		<Author>Technical_13</Author>
-		<Version>1.0</Version>
+		<Version>1.01</Version>
 		<Description><![CDATA[New plugin based on "Mount Carousel Men and Elves" (http://www.lotrointerface.com/downloads/info407) and "Mount Carousel Hobbits and Dwarves" (http://www.lotrointerface.com/downloads/info408) authored by Marll (http://www.lotrointerface.com/forums/member.php?action=getinfo&userid=2502) that you can load for all your characters instead of having to use separate plugins based on race!]]></Description>
 	</Information>
 	<Package>ShoeMakerPlugins.MountStable.Main</Package>
