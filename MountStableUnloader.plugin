@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Plugin>
+	<Information>
+		<Name>MountStable Unloader</Name>
+		<Author>Technical_13</Author>
+		<Version>v1.0.0</Version>
+		<Description><![CDATA[This plugin is used internally by MountStable and should NOT be loaded by user or plugin manager]]></Description>
+	</Information>
+	<Package>ShoeMakerPlugins.MountStable.unloader</Package>
+	<Configuration Apartment="MountStableUnloader" />
+</Plugin>
