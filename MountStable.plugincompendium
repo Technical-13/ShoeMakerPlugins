@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>407</Id>
+  <Name>Mount Stable</Name>
+  <Version>0.1</Version>
+  <Author>Technical_13</Author>
+  <InfoUrl>http://www.lotrointerface.com/downloads/info407</InfoUrl>
+  <DownloadUrl>http://www.lotrointerface.com/downloads/download407</DownloadUrl>
+  <Descriptors>
+    <descriptor>ShoeMakerPlugins\MountStable.plugin</descriptor>
+  </Descriptors>
+  <Dependencies />
+</PluginConfig>
